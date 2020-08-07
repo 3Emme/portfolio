@@ -6,7 +6,9 @@
 
 ## Description
 
-This portfolio was created as an Epicodus assignment, with the intent to have it serve a long term function for the creator as a landing page for their programming portfolio. For the time being this README will serve as a checklist to demonstrate the satisfaction of all project requirements and objectives.
+This portfolio was created as an Epicodus assignment, with the intent to have it serve a long term function for the creator as a landing page for their programming portfolio. For the time being this README will serve as a checklist to demonstrate the satisfaction of all project requirements and objectives. 
+
+[Link to live website](http://3emme.github.io/portfolio)
 
 __Project requirements:__
 
