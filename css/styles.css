@@ -1,11 +1,21 @@
-body{
-  align-content: center;
-}/* all body content should be centered */
-
 #about-me-img{
   border-radius: 10%;
   float: left;
   width: 50%;
   height: auto;
   margin: 0 20px 0 20px;
+}
+
+body h3{
+  text-align: center;
+}/* all body content should be centered */
+
+.about-me-text p {
+  font-weight: 900;
+}
+
+.tester{
+  font-size: larger;
+  font-weight: bold;
+  font-style: italic;
 }
