@@ -10,39 +10,39 @@ This portfolio was created as an Epicodus assignment, with the intent to have it
 
 __Project requirements:__
 
-* Create a portfolio webpage using HTML and CSS, which will later act as the landing page for your programming portfolio. **[Incomplete]**
-  * Do not use a template to create your initial HTML and Bootstrap. **[Incomplete]**
-  * Begin your work with an empty page and an initial empty commit. **[Incomplete]**
-  * Your CSS stylesheet must be named styles.css and reside in a css directory. **[Incomplete]**
-  * Your HTML file page must be called index.html. **[Incomplete]**
+* Create a portfolio webpage using HTML and CSS, which will later act as the landing page for your programming portfolio. **[Complete]**
+  * Do not use a template to create your initial HTML and Bootstrap. **[Complete]**
+  * Begin your work with an empty page and an initial empty commit. **[Complete]**
+  * Your CSS stylesheet must be named styles.css and reside in a css directory. **[Complete]**
+  * Your HTML file page must be called index.html. **[Complete]**
 * Project includes the following:
-  * Your name. **[Incomplete]**
-  * An image of you, or something that represents you. **[Incomplete]**
+  * Your name. **[Complete]**
+  * An image of you, or something that represents you. **[Complete]**
   * A list of projects you have created with active links to their GitHub pages sites or GitHub repositories. **[Incomplete]**
   * For each, include a brief description of the project and what languages it uses. **[Incomplete]**
   * An “About Me” section. **[Incomplete]**
   * Your background (education, job experience, or why did you decide to take a class on programming, etc). **[Incomplete]**
   * Your current interests, hobbies, and skills. **[Incomplete]**
   * A gh-pages branch so that your site may be viewed on GitHub Pages at your-username.github.io/portfolio. **[Incomplete]**
-  * Include a README in your GitHub repository! **[Incomplete]**
+  * Include a README in your GitHub repository! **[Complete]**
 
 __Project Objectives:__
 
-  * The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, and span. **[Incomplete]**
-  * Project includes a custom-made stylesheet that uses typography styles, cascading, the box model, and floats. **[Incomplete]**
-  * Code is clean, well-refactored, and easy-to-read. This includes correct indendation, spacing, and including only necessary comments and debugging tools. **[Incomplete]**
-  * Commits are made regularly with clear messages that finish the phrase "It will…" **[Incomplete]**
+  * The following HTML tags are all used: p, h, ul, ol, li, em, strong, a, img, div, and span. **[Complete]**
+  * Project includes a custom-made stylesheet that uses typography styles, cascading, the box model, and floats. **[Complete]**
+  * Code is clean, well-refactored, and easy-to-read. This includes correct indendation, spacing, and including only necessary comments and debugging tools. **[Complete]**
+  * Commits are made regularly with clear messages that finish the phrase "It will…" **[Complete]**
   * The project repo contains a README that includes:
-    * author name **[Incomplete]**
-    * project or program name **[Incomplete]**
-    * description of program **[Incomplete]**
-    * program setup instructions **[Incomplete]**
+    * author name **[Complete]**
+    * project or program name **[Complete]**
+    * description of program **[Complete]**
+    * program setup instructions **[Complete]**
     * link to site on GitHub Pages **[Incomplete]**
-    * copyright and license information **[Incomplete]**
+    * copyright and license information **[Complete]**
   * Site is successfully deployed to GitHub pages. **[Incomplete]**
   * Project is in a polished, portfolio-quality state. **[Incomplete]**
-  * Required content was in place by the Friday deadline. **[Incomplete]**
-  * Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology. **[Incomplete]**
+  * Required content was in place by the Friday deadline. **[Complete]**
+  * Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology. **[Complete]**
 
 ## Setup/Installation Requirements
 
