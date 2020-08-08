@@ -8,7 +8,7 @@
 
 This portfolio was created as an Epicodus assignment, with the intent to have it serve a long term function for the creator as a landing page for their programming portfolio. For the time being this README will serve as a checklist to demonstrate the satisfaction of all project requirements and objectives. 
 
-[Link to live website](http://3emme.github.io/portfolio)
+[Link to live website](http://3emme.github.io/portfolio/)
 
 __Project requirements:__
 
@@ -20,12 +20,12 @@ __Project requirements:__
 * Project includes the following:
   * Your name. **[Complete]**
   * An image of you, or something that represents you. **[Complete]**
-  * A list of projects you have created with active links to their GitHub pages sites or GitHub repositories. **[Incomplete]**
-  * For each, include a brief description of the project and what languages it uses. **[Incomplete]**
-  * An “About Me” section. **[Incomplete]**
-  * Your background (education, job experience, or why did you decide to take a class on programming, etc). **[Incomplete]**
-  * Your current interests, hobbies, and skills. **[Incomplete]**
-  * A gh-pages branch so that your site may be viewed on GitHub Pages at your-username.github.io/portfolio. **[Incomplete]**
+  * A list of projects you have created with active links to their GitHub pages sites or GitHub repositories. **[Complete]**
+  * For each, include a brief description of the project and what languages it uses. **[Complete]**
+  * An “About Me” section. **[Complete]**
+  * Your background (education, job experience, or why did you decide to take a class on programming, etc). **[Incomplete: needs copy]**
+  * Your current interests, hobbies, and skills. **[Incomplete: needs copy]**
+  * A gh-pages branch so that your site may be viewed on GitHub Pages at your-username.github.io/portfolio. **[Complete]**
   * Include a README in your GitHub repository! **[Complete]**
 
 __Project Objectives:__
@@ -39,10 +39,10 @@ __Project Objectives:__
     * project or program name **[Complete]**
     * description of program **[Complete]**
     * program setup instructions **[Complete]**
-    * link to site on GitHub Pages **[Incomplete]**
+    * link to site on GitHub Pages **[Complete]**
     * copyright and license information **[Complete]**
-  * Site is successfully deployed to GitHub pages. **[Incomplete]**
-  * Project is in a polished, portfolio-quality state. **[Incomplete]**
+  * Site is successfully deployed to GitHub pages. **[Complete]**
+  * Project is in a polished, portfolio-quality state. **[Incomplete: needs padding/margin adjustment]**
   * Required content was in place by the Friday deadline. **[Complete]**
   * Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology. **[Complete]**
 
