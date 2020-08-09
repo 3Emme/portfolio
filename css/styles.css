@@ -19,3 +19,8 @@ body h3{
   font-weight: bold;
   font-style: italic;
 }
+
+div .card-grid{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
