@@ -23,8 +23,8 @@ __Project requirements:__
   * A list of projects you have created with active links to their GitHub pages sites or GitHub repositories. **[Complete]**
   * For each, include a brief description of the project and what languages it uses. **[Complete]**
   * An “About Me” section. **[Complete]**
-  * Your background (education, job experience, or why did you decide to take a class on programming, etc). **[Incomplete: needs copy]**
-  * Your current interests, hobbies, and skills. **[Incomplete: needs copy]**
+  * Your background (education, job experience, or why did you decide to take a class on programming, etc). **[Complete]**
+  * Your current interests, hobbies, and skills. **[Complete]**
   * A gh-pages branch so that your site may be viewed on GitHub Pages at your-username.github.io/portfolio. **[Complete]**
   * Include a README in your GitHub repository! **[Complete]**
 
@@ -42,7 +42,7 @@ __Project Objectives:__
     * link to site on GitHub Pages **[Complete]**
     * copyright and license information **[Complete]**
   * Site is successfully deployed to GitHub pages. **[Complete]**
-  * Project is in a polished, portfolio-quality state. **[Incomplete: needs padding/margin adjustment]**
+  * Project is in a polished, portfolio-quality state. **[Complete]**
   * Required content was in place by the Friday deadline. **[Complete]**
   * Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology. **[Complete]**
 
